@@ -1,0 +1,16 @@
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\obj\Debug\UserInterfaceGraphics.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\obj\Debug\UserInterfaceGraphics.AboutBoxTicTactoe.resources
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\obj\Debug\UserInterfaceGraphics.Mainform.resources
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\obj\Debug\UserInterfaceGraphics.GameCell.resources
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\obj\Debug\UserInterfaceGraphics.Properties.Resources.resources
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\obj\Debug\UserInterfaceGraphics.csproj.GenerateResource.Cache
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\obj\Debug\UserInterfaceGraphics.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\bin\Debug\UserInterfaceGraphics.exe.config
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\bin\Debug\UserInterfaceGraphics.exe
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\bin\Debug\UserInterfaceGraphics.pdb
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\bin\Debug\CommonFramework.Core.dll
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\bin\Debug\TheBrain.dll
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\bin\Debug\CommonFramework.Core.pdb
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\bin\Debug\TheBrain.pdb
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\obj\Debug\UserInterfaceGraphics.exe
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\UserInterfaceGraphics\obj\Debug\UserInterfaceGraphics.pdb

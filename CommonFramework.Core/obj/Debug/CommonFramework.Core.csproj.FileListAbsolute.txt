@@ -1,0 +1,37 @@
+C:\Users\Mark\Mozy Sync\SprintZero\CommonFramework.Core\bin\Debug\CommonFramework.Core.dll
+C:\Users\Mark\Mozy Sync\SprintZero\CommonFramework.Core\bin\Debug\CommonFramework.Core.pdb
+C:\Users\Mark\Mozy Sync\SprintZero\CommonFramework.Core\obj\Debug\CommonFramework.Core.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Mozy Sync\SprintZero\CommonFramework.Core\obj\Debug\CommonFramework.Core.Properties.Resources.resources
+C:\Users\Mark\Mozy Sync\SprintZero\CommonFramework.Core\obj\Debug\CommonFramework.Core.csproj.GenerateResource.Cache
+C:\Users\Mark\Mozy Sync\SprintZero\CommonFramework.Core\obj\Debug\CommonFramework.Core.dll
+C:\Users\Mark\Mozy Sync\SprintZero\CommonFramework.Core\obj\Debug\CommonFramework.Core.pdb
+C:\Users\Mark\Dropbox\Lonestar College\COSC 1336 Programming\2018 Spring\Assignment 7 Unit Testing\CommonFramework.Core\bin\Debug\CommonFramework.Core.dll
+C:\Users\Mark\Dropbox\Lonestar College\COSC 1336 Programming\2018 Spring\Assignment 7 Unit Testing\CommonFramework.Core\bin\Debug\CommonFramework.Core.pdb
+C:\Users\Mark\Dropbox\Lonestar College\COSC 1336 Programming\2018 Spring\Assignment 7 Unit Testing\CommonFramework.Core\obj\Debug\CommonFramework.Core.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Dropbox\Lonestar College\COSC 1336 Programming\2018 Spring\Assignment 7 Unit Testing\CommonFramework.Core\obj\Debug\CommonFramework.Core.Properties.Resources.resources
+C:\Users\Mark\Dropbox\Lonestar College\COSC 1336 Programming\2018 Spring\Assignment 7 Unit Testing\CommonFramework.Core\obj\Debug\CommonFramework.Core.csproj.GenerateResource.Cache
+C:\Users\Mark\Dropbox\Lonestar College\COSC 1336 Programming\2018 Spring\Assignment 7 Unit Testing\CommonFramework.Core\obj\Debug\CommonFramework.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Dropbox\Lonestar College\COSC 1336 Programming\2018 Spring\Assignment 7 Unit Testing\CommonFramework.Core\obj\Debug\CommonFramework.Core.dll
+C:\Users\Mark\Dropbox\Lonestar College\COSC 1336 Programming\2018 Spring\Assignment 7 Unit Testing\CommonFramework.Core\obj\Debug\CommonFramework.Core.pdb
+C:\Users\Mark\Dropbox\Lonestar College\COSC 1336 Programming\2018 Spring\Assignment 7 Unit Testing Project Starter\CommonFramework.Core\bin\Debug\CommonFramework.Core.dll
+C:\Users\Mark\Dropbox\Lonestar College\COSC 1336 Programming\2018 Spring\Assignment 7 Unit Testing Project Starter\CommonFramework.Core\bin\Debug\CommonFramework.Core.pdb
+C:\Users\Mark\Dropbox\Lonestar College\COSC 1336 Programming\2018 Spring\Assignment 7 Unit Testing Project Starter\CommonFramework.Core\obj\Debug\CommonFramework.Core.Properties.Resources.resources
+C:\Users\Mark\Dropbox\Lonestar College\COSC 1336 Programming\2018 Spring\Assignment 7 Unit Testing Project Starter\CommonFramework.Core\obj\Debug\CommonFramework.Core.csproj.GenerateResource.Cache
+C:\Users\Mark\Dropbox\Lonestar College\COSC 1336 Programming\2018 Spring\Assignment 7 Unit Testing Project Starter\CommonFramework.Core\obj\Debug\CommonFramework.Core.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Dropbox\Lonestar College\COSC 1336 Programming\2018 Spring\Assignment 7 Unit Testing Project Starter\CommonFramework.Core\obj\Debug\CommonFramework.Core.dll
+C:\Users\Mark\Dropbox\Lonestar College\COSC 1336 Programming\2018 Spring\Assignment 7 Unit Testing Project Starter\CommonFramework.Core\obj\Debug\CommonFramework.Core.pdb
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\Assignment 7 Unit Testing Project Starter\CommonFramework.Core\bin\Debug\CommonFramework.Core.dll
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\Assignment 7 Unit Testing Project Starter\CommonFramework.Core\bin\Debug\CommonFramework.Core.pdb
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\Assignment 7 Unit Testing Project Starter\CommonFramework.Core\obj\Debug\CommonFramework.Core.Properties.Resources.resources
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\Assignment 7 Unit Testing Project Starter\CommonFramework.Core\obj\Debug\CommonFramework.Core.csproj.GenerateResource.Cache
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\Assignment 7 Unit Testing Project Starter\CommonFramework.Core\obj\Debug\CommonFramework.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\Assignment 7 Unit Testing Project Starter\CommonFramework.Core\obj\Debug\CommonFramework.Core.dll
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\Assignment 7 Unit Testing Project Starter\CommonFramework.Core\obj\Debug\CommonFramework.Core.pdb
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\CommonFramework.Core\bin\Debug\CommonFramework.Core.dll
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\CommonFramework.Core\bin\Debug\CommonFramework.Core.pdb
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\CommonFramework.Core\obj\Debug\CommonFramework.Core.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\CommonFramework.Core\obj\Debug\CommonFramework.Core.Properties.Resources.resources
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\CommonFramework.Core\obj\Debug\CommonFramework.Core.csproj.GenerateResource.Cache
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\CommonFramework.Core\obj\Debug\CommonFramework.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\CommonFramework.Core\obj\Debug\CommonFramework.Core.dll
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\CommonFramework.Core\obj\Debug\CommonFramework.Core.pdb

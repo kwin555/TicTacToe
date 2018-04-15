@@ -1,0 +1,12 @@
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain_Tests\bin\Debug\TheBrain_Tests.dll
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain_Tests\bin\Debug\TheBrain_Tests.pdb
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain_Tests\bin\Debug\nunit.framework.dll
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain_Tests\bin\Debug\Shouldly.dll
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain_Tests\bin\Debug\TheBrain.dll
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain_Tests\bin\Debug\TheBrain.pdb
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain_Tests\bin\Debug\nunit.framework.pdb
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain_Tests\bin\Debug\nunit.framework.xml
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain_Tests\obj\Debug\TheBrain_Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain_Tests\obj\Debug\TheBrain_Tests.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain_Tests\obj\Debug\TheBrain_Tests.dll
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain_Tests\obj\Debug\TheBrain_Tests.pdb

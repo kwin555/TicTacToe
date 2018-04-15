@@ -1,0 +1,6 @@
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain\bin\Debug\TheBrain.dll
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain\bin\Debug\TheBrain.pdb
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain\obj\Debug\TheBrain.csprojResolveAssemblyReference.cache
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain\obj\Debug\TheBrain.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain\obj\Debug\TheBrain.dll
+C:\Users\Kevin Nguyen\Desktop\COSC 1336\SPRING 2018 ASSIGNMENTS\TicTacToe\TheBrain\obj\Debug\TheBrain.pdb
